@@ -47,7 +47,7 @@ You have 3 paths in front of you:
 What is your name?
 -> """)
         player = Player.Wizard(player_name)
-        # Need to implement an intro msg
+        # Need to  implement an intro msg
         print("Intro to the world.")
         os.system('cls')
 
